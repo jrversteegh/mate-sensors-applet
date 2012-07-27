@@ -30,3 +30,4 @@ po/stamp-it
 sensors-applet/mate-sensors-applet
 sensors-applet/stamp-h1
 xmldocs.make
+mate-sensors-applet*.tar.gz
